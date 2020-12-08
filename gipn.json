@@ -1,0 +1,65 @@
+{
+  "GOLNXLAKC58": {
+    "reward": "50 Primogems",
+    "eu_code": "GOLNXLAKC58",
+    "na_code": "GOLNXLAKC58",
+    "sea_code": "GOLNXLAKC58",
+    "is_expired": true,
+    "discovered_date": "2020-11-20",
+    "expired_date": "2020-11-30"
+  },
+  "GENSHINGIFT": {
+    "reward": "50 Primogems, 3x Hero's Wit",
+    "eu_code": "GENSHINGIFT",
+    "na_code": "GENSHINGIFT",
+    "sea_code": "GENSHINGIFT",
+    "is_expired": false,
+    "discovered_date": "2020-11-10",
+    "expired_date": null
+  },
+  "GENSHIN1111": {
+    "reward": "60 Primogems, 10000 Mora",
+    "eu_code": "GENSHIN1111",
+    "na_code": "GENSHIN1111",
+    "sea_code": "GENSHIN1111",
+    "is_expired": true,
+    "discovered_date": "2020-11-09",
+    "expired_date": "2020-11-20"
+  },
+  "GENSHINZHB30": {
+    "reward": "160 Primogems",
+    "eu_code": "GENSHINZHB30",
+    "na_code": "GENSHINZHB30",
+    "sea_code": "GENSHINZHB30",
+    "is_expired": true,
+    "discovered_date": "2020-10-30",
+    "expired_date": "2020-10-31"
+  },
+  "GENSHINMHY0O": {
+    "reward": "30 Primogems",
+    "eu_code": "GENSHINMHY0O",
+    "na_code": "GENSHINMHY0M",
+    "sea_code": "GENSHINMHY0I",
+    "is_expired": true,
+    "discovered_date": "2020-10-14",
+    "expired_date": "2020-10-21"
+  },
+  "GENSHIN1006U": {
+    "reward": "30 Primogems, 5x Adventure EXP",
+    "eu_code": "GENSHIN1006U",
+    "na_code": "GENSHIN1006A",
+    "sea_code": "GENSHIN1006S",
+    "is_expired": true,
+    "discovered_date": "2020-10-05",
+    "expired_date": "2020-10-13"
+  },
+  "GENSHIN0928E": {
+    "reward": "60 Primogems, 10000 Mora",
+    "eu_code": "GENSHIN0928E",
+    "na_code": "GENSHIN0928N",
+    "sea_code": "GENSHIN0928A",
+    "is_expired": true,
+    "discovered_date": "2020-09-30",
+    "expired_date": "2020-10-07"
+  }
+}
