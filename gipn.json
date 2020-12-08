@@ -1,5 +1,23 @@
 {
   "CODES": [
+	{
+      "reward": "999 Primogems",
+      "eu_code": "GIPNTEST",
+      "na_code": "GIPNTEST",
+      "sea_code": "GIPNTEST",
+      "is_expired": false,
+      "discovered_date": "2020-11-20",
+      "expired_date": "2020-11-30"
+    },
+	{
+      "reward": "225 Primogems",
+      "eu_code": "GENSHINTEST",
+      "na_code": "GENSHINTEST",
+      "sea_code": "GENSHINTEST",
+      "is_expired": false,
+      "discovered_date": "2020-11-20",
+      "expired_date": "2020-11-30"
+    },
     {
       "reward": "50 Primogems",
       "eu_code": "GOLNXLAKC58",
