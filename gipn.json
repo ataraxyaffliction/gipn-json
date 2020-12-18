@@ -1,1 +1,132 @@
-{"CODES":[{"reward":"100 Primogems, 10x Mystic Enhancement Ore","eu_code":"5KVeIbSxDUU","na_code":"5KVeIbSxDUU","sea_code":"5KVeIbSxDUU","discovered_date":"2020-12-11","expired_date":"2020-12-11","is_expired":false},{"reward":"100 Primogems, 5x Hero's Wit","eu_code":"G3tQq6TOqmE","na_code":"G3tQq6TOqmE","sea_code":"G3tQq6TOqmE","discovered_date":"2020-12-11","expired_date":"2020-12-11","is_expired":false},{"reward":"100 Primogems, 50000 Mora","eu_code":"eATDgIXLD56","na_code":"eATDgIXLD56","sea_code":"eATDgIXLD56","discovered_date":"2020-12-11","expired_date":"2020-12-11","is_expired":false},{"reward":"50 Primogems","eu_code":"GOLNXLAKC58","na_code":"GOLNXLAKC58","sea_code":"GOLNXLAKC58","discovered_date":"2020-11-20","expired_date":"2020-11-30","is_expired":true},{"reward":"50 Primogems, 3x Hero's Wit","eu_code":"GENSHINGIFT","na_code":"GENSHINGIFT","sea_code":"GENSHINGIFT","discovered_date":"2020-11-10","expired_date":null,"is_expired":false},{"reward":"60 Primogems, 10000 Mora","eu_code":"GENSHIN1111","na_code":"GENSHIN1111","sea_code":"GENSHIN1111","discovered_date":"2020-11-09","expired_date":"2020-11-20","is_expired":true},{"reward":"160 Primogems","eu_code":"GENSHINZHB30","na_code":"GENSHINZHB30","sea_code":"GENSHINZHB30","discovered_date":"2020-10-30","expired_date":"2020-10-31","is_expired":true},{"reward":"30 Primogems","eu_code":"GENSHINMHY0O","na_code":"GENSHINMHY0M","sea_code":"GENSHINMHY0I","discovered_date":"2020-10-14","expired_date":"2020-10-21","is_expired":true},{"reward":"30 Primogems, 5x Adventure EXP","eu_code":"GENSHIN1006U","na_code":"GENSHIN1006A","sea_code":"GENSHIN1006S","discovered_date":"2020-10-05","expired_date":"2020-10-13","is_expired":true},{"reward":"60 Primogems, 10000 Mora","eu_code":"GENSHIN0928E","na_code":"GENSHIN0928N","sea_code":"GENSHIN0928A","discovered_date":"2020-09-30","expired_date":"2020-10-07","is_expired":true}]}
+{"CODES":
+	[
+		{
+			"reward":"100 Primogems, 10x Mystic Enhancement Ore",
+			"region": 3,
+			"code":"5KVeIbSxDUU",
+			"discovered_date":"2020-12-11",
+			"expired_date":"2020-12-11",
+			"is_expired":false
+		},
+		{
+			"reward":"100 Primogems, 5x Hero's Wit",
+			"region": 3,
+			"code":"G3tQq6TOqmE",
+			"discovered_date":"2020-12-11",
+			"expired_date":"2020-12-11",
+			"is_expired":false
+		},
+		{
+			"reward":"100 Primogems, 50000 Mora",
+			"region": 3,
+			"code":"eATDgIXLD56",
+			"discovered_date":"2020-12-11",
+			"expired_date":"2020-12-11",
+			"is_expired":false
+		},
+		{
+			"reward":"50 Primogems",
+			"region": 3,
+			"code":"GOLNXLAKC58",
+			"discovered_date":"2020-11-20",
+			"expired_date":"2020-11-30",
+			"is_expired":true
+		},
+		{
+			"reward":"50 Primogems, 3x Hero's Wit",
+			"region": 3,
+			"code":"GENSHINGIFT",
+			"discovered_date":"2020-11-10",
+			"expired_date":null,
+			"is_expired":false
+		},
+		{
+			"reward":"60 Primogems, 10000 Mora",
+			"region": 3,
+			"code":"GENSHIN1111",
+			"discovered_date":"2020-11-09",
+			"expired_date":"2020-11-20",
+			"is_expired":true
+		},
+		{
+			"reward":"160 Primogems",
+			"region": 3,
+			"code":"GENSHINZHB30",
+			"discovered_date":"2020-10-30",
+			"expired_date":"2020-10-31",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems",
+			"region": 0,
+			"code":"GENSHINMHY0O",
+			"discovered_date":"2020-10-14",
+			"expired_date":"2020-10-21",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems",
+			"region": 1,
+			"code":"GENSHINMHY0M",
+			"discovered_date":"2020-10-14",
+			"expired_date":"2020-10-21",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems",
+			"region": 2,
+			"code":"GENSHINMHY0I",
+			"discovered_date":"2020-10-14",
+			"expired_date":"2020-10-21",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems, 5x Adventure EXP",
+			"region": 0,
+			"code":"GENSHIN1006U",
+			"discovered_date":"2020-10-05",
+			"expired_date":"2020-10-13",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems, 5x Adventure EXP",
+			"region": 1,
+			"code":"GENSHIN1006A",
+			"discovered_date":"2020-10-05",
+			"expired_date":"2020-10-13",
+			"is_expired":true
+		},
+		{
+			"reward":"30 Primogems, 5x Adventure EXP",
+			"region": 2,
+			"code":"GENSHIN1006S",
+			"discovered_date":"2020-10-05",
+			"expired_date":"2020-10-13",
+			"is_expired":true
+		},
+		{
+			"reward":"60 Primogems, 10000 Mora",
+			"region": 0,
+			"code":"GENSHIN0928E",
+			"discovered_date":"2020-09-30",
+			"expired_date":"2020-10-07",
+			"is_expired":true
+		},
+		{
+			"reward":"60 Primogems, 10000 Mora",
+			"region": 1,
+			"code":"GENSHIN0928N",
+			"discovered_date":"2020-09-30",
+			"expired_date":"2020-10-07",
+			"is_expired":true
+		},
+		{
+			"reward":"60 Primogems, 10000 Mora",
+			"region": 2,
+			"code":"GENSHIN0928A",
+			"discovered_date":"2020-09-30",
+			"expired_date":"2020-10-07",
+			"is_expired":true
+		}
+	]
+}
