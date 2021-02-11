@@ -14,7 +14,7 @@
     <img alt="Rarity 5 background.png" src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png">
      </div>
     </div>
@@ -26,7 +26,7 @@
     <img alt="Rarity 3 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 3 background.png" data-image-key="Rarity_3_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png/revision/latest/scale-to-width-down/74?cb=20210209215735" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Adventurer%27s_Experience" title="Adventurer's Experience"><img alt="Item Adventurer's Experience.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Adventurer's Experience.png" data-image-key="Item_Adventurer's_Experience.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/0/07/Item_Adventurer%27s_Experience.png/revision/latest/scale-to-width-down/74?cb=20201116222310" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -45,7 +45,7 @@
     <img alt="Rarity 5 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -57,7 +57,7 @@
     <img alt="Rarity 3 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 3 background.png" data-image-key="Rarity_3_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png/revision/latest/scale-to-width-down/74?cb=20210209215735" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Mora" title="Mora"><img alt="Item Mora.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Mora.png" data-image-key="Item_Mora.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/74?cb=20210106073715" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -76,7 +76,7 @@
     <img alt="Rarity 5 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -88,7 +88,7 @@
     <img alt="Rarity 4 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 4 background.png" data-image-key="Rarity_4_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Hero%27s_Wit" title="Hero's Wit"><img alt="Item Hero's Wit.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Hero's Wit.png" data-image-key="Item_Hero's_Wit.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/74?cb=20201116222208" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -116,7 +116,7 @@
     <img alt="Rarity 5 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -128,7 +128,7 @@
     <img alt="Rarity 3 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 3 background.png" data-image-key="Rarity_3_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png/revision/latest/scale-to-width-down/74?cb=20210209215735" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Mystic_Enhancement_Ore" title="Mystic Enhancement Ore"><img alt="Item Mystic Enhancement Ore.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Mystic Enhancement Ore.png" data-image-key="Item_Mystic_Enhancement_Ore.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mystic_Enhancement_Ore.png/revision/latest/scale-to-width-down/74?cb=20210106073921" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -147,7 +147,7 @@
     <img alt="Rarity 5 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -159,7 +159,7 @@
     <img alt="Rarity 4 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 4 background.png" data-image-key="Rarity_4_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Rarity_4_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Hero%27s_Wit" title="Hero's Wit"><img alt="Item Hero's Wit.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Hero's Wit.png" data-image-key="Item_Hero's_Wit.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/2/26/Item_Hero%27s_Wit.png/revision/latest/scale-to-width-down/74?cb=20201116222208" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -178,7 +178,7 @@
     <img alt="Rarity 5 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 5 background.png" data-image-key="Rarity_5_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Rarity_5_background.png/revision/latest/scale-to-width-down/74?cb=20210209215737" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Primogem" title="Primogem"><img alt="Item Primogem.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Primogem.png" data-image-key="Item_Primogem.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Primogem.png/revision/latest/scale-to-width-down/74?cb=20201117071158" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
@@ -190,7 +190,7 @@
     <img alt="Rarity 3 background.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="90" data-image-name="Rarity 3 background.png" data-image-key="Rarity_3_background.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/5/57/Rarity_3_background.png/revision/latest/scale-to-width-down/74?cb=20210209215735" class="lazyload">
     <div class="card_image">
      <a href="/wiki/Mora" title="Mora"><img alt="Item Mora.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="74" height="74" data-image-name="Item Mora.png" data-image-key="Item_Mora.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/8/84/Item_Mora.png/revision/latest/scale-to-width-down/74?cb=20210106073715" class="lazyload"></a>
-     <div class="card_corner">
+     <div class="card_corner" style="bottom:0px">
       <img alt="Card Corner.png" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" width="14" height="14" data-image-name="Card Corner.png" data-image-key="Card_Corner.png" data-src="https://static.wikia.nocookie.net/gensin-impact/images/7/79/Card_Corner.png/revision/latest/scale-to-width-down/14?cb=20210112001938" class="lazyload">
      </div>
     </div>
